@@ -1,1 +1,5 @@
-console.log("Welcome to the Git ");
+console.log("Welcome to the Playlist ");
+
+for(let i = 0; i<5; i++){
+    console.log("Bujjiz");
+}
